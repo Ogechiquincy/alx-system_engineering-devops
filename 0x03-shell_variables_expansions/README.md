@@ -1,1 +1,1 @@
-describing what each script is doing
+Projech shell init, variables and expansion
